@@ -1,0 +1,9 @@
+[Core]
+Name = Welcome
+Module = welcome
+
+[Documentation]
+Description = Perform tasks when user joins a channel
+
+[Python]
+Version = 3.0.0
